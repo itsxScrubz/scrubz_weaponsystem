@@ -92,7 +92,7 @@ local weaponInfo =
   [85] = {id = 'stickybomb', hash = "WEAPON_STICKYBOMB"},
   [86] = {id = 'stungun', hash = "WEAPON_STUNGUN"},
   [87] = {id = 'switchblade', hash = "WEAPON_SWITCHBLADE"},
-  [88] = {id = 'vintagepistol', hash = "WEAPON_VINTAGEPISTOL"}
+  [88] = {id = 'vintagepistol', hash = "WEAPON_VINTAGEPISTOL"},
   [89] = {id = 'wrench', hash = "WEAPON_WRENCH"}
 }
 
