@@ -84,16 +84,15 @@ local weaponInfo =
   [78] = {id = 'smg_mk2', hash = "WEAPON_SMG_MK2"},
   [78] = {id = 'smokegrenade', hash = "WEAPON_SMOKEGRENADE"},
   [79] = {id = 'sniperrifle', hash = "WEAPON_SNIPERRIFLE"},
-  [80] = {id = 'snowball', hash = "WEAPON_SNOWBALL"},
-  [81] = {id = 'snspistol', hash = "WEAPON_SNSPISTOL"},
-  [82] = {id = 'snspistol_mk2', hash = "WEAPON_SNSPISTOL_MK2"},
-  [83] = {id = 'specialcarbine', hash = "WEAPON_SPECIALCARBINE"},
-  [84] = {id = 'specialcarbine_mk2', hash = "WEAPON_SPECIALCARBINE_MK2"},
-  [85] = {id = 'stickybomb', hash = "WEAPON_STICKYBOMB"},
-  [86] = {id = 'stungun', hash = "WEAPON_STUNGUN"},
-  [87] = {id = 'switchblade', hash = "WEAPON_SWITCHBLADE"},
-  [88] = {id = 'vintagepistol', hash = "WEAPON_VINTAGEPISTOL"},
-  [89] = {id = 'wrench', hash = "WEAPON_WRENCH"}
+  [80] = {id = 'snspistol', hash = "WEAPON_SNSPISTOL"},
+  [81] = {id = 'snspistol_mk2', hash = "WEAPON_SNSPISTOL_MK2"},
+  [82] = {id = 'specialcarbine', hash = "WEAPON_SPECIALCARBINE"},
+  [83] = {id = 'specialcarbine_mk2', hash = "WEAPON_SPECIALCARBINE_MK2"},
+  [84] = {id = 'stickybomb', hash = "WEAPON_STICKYBOMB"},
+  [85] = {id = 'stungun', hash = "WEAPON_STUNGUN"},
+  [86] = {id = 'switchblade', hash = "WEAPON_SWITCHBLADE"},
+  [87] = {id = 'vintagepistol', hash = "WEAPON_VINTAGEPISTOL"},
+  [88] = {id = 'wrench', hash = "WEAPON_WRENCH"}
 }
 
 ---------------------------
