@@ -367,7 +367,7 @@ ESX.RegisterUsableItem('wrench', function(source)
 end)
 
 ESX.RegisterUsableItem('battleaxe', function(source)
-	local weapon = ''
+	local weapon = 'battleaxe'
 	TriggerClientEvent('scrubz_weaponsystem_cl:addWeapon', source, weapon)
 end)
 
